@@ -1,5 +1,5 @@
 # Google-Play-Store-Data-Analytics
-Project Overview
+Project Overview - 
 This project analyzes Google Play Store app data and user reviews to identify app trends, rating patterns, sentiment, and category performance.
 
 Tools Used -
